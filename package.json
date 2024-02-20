@@ -4,7 +4,7 @@
   "description": "A set of celebration animations powered by Skia. Engage more with your users by celebrating in your React Native application.",
   "main": "lib/commonjs/index",
   "module": "lib/module/index",
-  "types": "lib/typescript/src/index.d.ts",
+  "types": "lib/typescript/index.d.ts",
   "react-native": "src/index",
   "source": "src/index",
   "files": [
